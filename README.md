@@ -1,7 +1,7 @@
 # Surfs_Up_Dude
 
 
-##June Temperatures
+## June Temperatures
 
 It's usually warm in June. 
 
@@ -13,7 +13,7 @@ min	64.000000
 75%	77.000000
 max	85.000000
 
-##December Temperatures
+## December Temperatures
 
 It's usually cold in December.
 
@@ -26,15 +26,15 @@ min	56.000000
 max	83.000000
 
 
-##Overview of the statistical analysis
+## Overview of the statistical analysis
 
 - It's warm in June and cold in December based on our extensive statistical analysis. 
 - The low temperature in June is 64 degrees which is slightly higher than the low temperature in December.
 - The high or max temperatures between June and December are about the same or 83 to 85 degrees. 
 
 
-##Summary -> it's slightly colder in December than in June.
+## Summary -> it's slightly colder in December than in June.
 
-##Additional queries 
+## Additional queries 
 
 -> Interestingly, there were the same amount of stations in both June and December based on our two additional queries. This is significant because of vacations either during June but not in December or December but not in June, causing a potential difference between the station counts. 
